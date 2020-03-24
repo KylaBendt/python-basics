@@ -1,2 +1,6 @@
 # python-basics
-Python Basics Esamples for Deep Dive Coding Data Science Bootcamp
+Python Basics Examples for Deep Dive Coding Data Science Bootcamp
+
+- for loops
+- functions
+- regular expressions
